@@ -2,7 +2,7 @@
 title: 'Using Sentry with Expo'
 ---
 
-[Expo](https://expo.io/) is an awesome way to quickly create and play around with your react native app. Now you can also use Sentry together with Expo which is pretty simple todo:
+[Expo](https://expo.io/) is an awesome way to quickly create and play around with your react native app. Now you can also use Sentry together with Expo which is pretty simple to do:
 
 ```bash
 $ npm i sentry-expo --save
